@@ -13,8 +13,8 @@ needs. Built on the [`github.com/gvwifi`](https://github.com/gvwifi) bring-up tr
 
 ## Status
 - Unofficial and maintained by one person; in daily use on the maintainer's tablet.
-- Working: Wi-Fi, Bluetooth, GPS, video playback (hardware composition), SELinux enforcing,
-  release-key signed updates.
+- Working: Wi-Fi, Bluetooth, GPS, audio, video playback (hardware composition), MTP file transfer,
+  SELinux enforcing, release-key signed updates.
 - **No accelerometer** on this tablet: rotation is a landscape/portrait quick-settings toggle.
 - Charges only from the 19 V barrel adapter; micro-USB is data only.
 - Every change and the reason for it is documented in
