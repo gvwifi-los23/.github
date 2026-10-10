@@ -9,7 +9,7 @@ needs. Built on the [`github.com/gvwifi`](https://github.com/gvwifi) bring-up tr
 | [**lineage-gvwifi**](https://github.com/gvwifi-los23/lineage-gvwifi) | The ROM: local manifest, the patch series (kernel, device trees, frameworks, ART, …), build scripts and docs |
 | [**twrp-gvwifi**](https://github.com/gvwifi-los23/twrp-gvwifi) | TWRP 3.7.1 (twrp-14.1) with automatic file-based-encryption decryption, working Data backup/restore and Format Data |
 | [**lineage-recovery-gvwifi**](https://github.com/gvwifi-los23/lineage-recovery-gvwifi) | The LineageOS recovery built from the ROM tree: build, flashing and known quirks |
-| [**microg-companion-gvwifi**](https://github.com/gvwifi-los23/microg-companion-gvwifi) | microG Companion built with Play Age Signals, which the ROM allowlists |
+| [**microg-companion-gvwifi**](https://github.com/gvwifi-los23/microg-companion-gvwifi) | *Superseded:* official microG 0.3.17 includes Play Age Signals; use it instead |
 
 ## Status
 - Unofficial and maintained by one person; in daily use on the maintainer's tablet.
