@@ -16,7 +16,7 @@ needs. Built on the [`github.com/gvwifi`](https://github.com/gvwifi) bring-up tr
 - Working: Wi-Fi, Bluetooth, GPS, audio, video playback (hardware composition), MTP file transfer,
   SELinux enforcing, release-key signed updates.
 - **No accelerometer** on this tablet: rotation is a landscape/portrait quick-settings toggle.
-- Charges only from the 19 V barrel adapter; micro-USB is data only.
+- Charges only from the 19 V barrel adapter; micro-USB doesn't charge.
 - Every change and the reason for it is documented in
   [`lineage-gvwifi/docs/BUILD-KIT.md`](https://github.com/gvwifi-los23/lineage-gvwifi/blob/main/docs/BUILD-KIT.md).
 
